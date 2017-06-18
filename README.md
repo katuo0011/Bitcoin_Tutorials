@@ -1,6 +1,6 @@
 # Bitcoin_Tutorials
 
-## （第１回）Bitcoinハンズオン
+## 第１回）Bitcoinハンズオン
 
 ### [1-1. インストール＆クイックスタート](https://github.com/YoshihitoAso/Bitcoin_Tutorials/blob/master/doc/1-1_Install%26Quickstart/1-1_インストール%26クイックスタート.md)
   * [（番外）Bitcoinを操作するための様々なツール](https://github.com/YoshihitoAso/Bitcoin_Tutorials/blob/master/doc/1-1_Install%26Quickstart/1-1-ex_その他ツール.md)
@@ -15,7 +15,13 @@
   * [補足資料](https://github.com/YoshihitoAso/Bitcoin_Tutorials/blob/master/doc/1-4_MultiSig/1-4_捕捉資料.pdf)
 
 
-## （第２回）ColoredCoinハンズオン（その１）
+## 第２回）Counterpartyハンズオン（その１）
 
+### [2-1. Counterparty概要](https://github.com/YoshihitoAso/Bitcoin_Tutorials/blob/master/doc/2-1_CounterpartyOverview/2-1_Counterparty概要.md)
 
-## （第３回）ColoredCoinハンズオン（その２）
+### [2-2. CounterWallet](https://github.com/YoshihitoAso/Bitcoin_Tutorials/blob/master/doc/2-2_CounterWallet/2-2_CounterWallet.md)
+* [補足資料](https://github.com/YoshihitoAso/Bitcoin_Tutorials/blob/master/doc/2-2_CounterWallet/2-2_捕捉資料.pdf)
+
+### [2-3. Counterparty-Server](https://github.com/YoshihitoAso/Bitcoin_Tutorials/blob/master/doc/2-3_Counterparty-Server/2-3_Counterparty-Server.md)
+
+## 第３回）Counterpartyハンズオン（その２）
