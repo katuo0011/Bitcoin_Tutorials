@@ -13,4 +13,5 @@
 * Counterparty プロトコルを使用するためのアルトコイン。これ自体もBitcoin上で発行される。
 * BTCを『Burn』することにより得られる。
 * Burnとは？
-  * Proof of Burn https://counterparty.io/news/why-proof-of-burn/
+  * 詳細は2-2で後述。
+  * 参考）Proof of Burn https://counterparty.io/news/why-proof-of-burn/

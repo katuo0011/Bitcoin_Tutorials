@@ -2,3 +2,5 @@
 
 ## 2-1-. counterparty-libを使ってみる
 * 次に、WEBウォレットを使わずに、ローカルから直接Bitcoinネットワークに繋いでみる。
+
+todo
