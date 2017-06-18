@@ -15,15 +15,14 @@
     * m: minimum number of signature: 最低必要な署名の数
     * n: number of public key: 公開鍵の数
   * P2PKH
-    * Pay To Public Key Hashの略
-    * 1ではじまるビットコイン・アドレス
+    * Pay To Public Key Hashの略。
+    * 本番ネットの場合、1ではじまるBitcoinアドレス。
   * P2SH
-    * Pay To Script Hashの略
-    * 3ではじまるビットコイン・アドレス
-    * アドレス・フォーマットについては、BIP13を参照 BIP 13
+    * Pay To Script Hashの略。
+    * 本番ネットの場合、3ではじまるBitcoinアドレス。
+    * アドレス・フォーマットについては、BIP13を参照。
   * redeemScript (serialized script)
     * 2of3の場合、3つの公開鍵から2つの秘密鍵チェックするScriptをハッシュ化したものを指す。
-    * 償還用
 * その他
   * カラードコイン（Counterpartyなど）でも利用可能である。
 
@@ -69,9 +68,9 @@ $ echo $NEW_ADDRESS3
 myABybjVWKJhxg9Hs5ZsLfNhngSxgAvdc9
 ```
 
-* MultiSig アドレスは通常 public key をハッシュ化して作られるアドレスを利用して作成するが、 public key そのものも利用できる。
+* MultiSig アドレスは通常 public key をハッシュ化して作られるBitcoinアドレスを利用して作成するが、 public key そのものも利用できる。
 * ここではアドレス３のみ public key を使うことにする。
-* public key はアドレスを作成したノードで``validateaddress``メソッドを用いて表示することができる。
+* public key はアドレスを作成したノード（※アドレス→公開鍵の変換は不可逆なのでアドレスを作成したノードしか知り得ない）で``validateaddress``メソッドを用いて表示することができる。
 ```
 $ bitcoin-cli -testnet validateaddress $NEW_ADDRESS3
 {
