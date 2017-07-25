@@ -23,5 +23,3 @@
 * [補足資料](https://github.com/YoshihitoAso/Bitcoin_Tutorials/blob/master/doc/2-2_CounterWallet/2-2_捕捉資料.pdf)
 
 ### [2-3. Counterparty-Server](https://github.com/YoshihitoAso/Bitcoin_Tutorials/blob/master/doc/2-3_Counterparty-Server/2-3_Counterparty-Server.md)
-
-## 第３回）Counterpartyハンズオン（その２）
